@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:title="Menu"
+        android:icon="@drawable/ic_menu_foreground"/>
+    <item
+        android:id="@+id/order"
+        android:title="Ongoing Order"
+        android:icon="@drawable/ic_order_foreground"/>
+    <item
+        android:id="@+id/user"
+        android:title="User"
+        android:icon="@drawable/ic_user_foreground"/>
+</menu>
